@@ -104,7 +104,7 @@ Beyond academics, I've worked as a web developer and an R&D Engineer, applying m
 ### 🕒 My Coding Activity
 
 <p align="center">
-  <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dracula&layout=compact" /></a>
+  <a href="https://wakatime.com/@benzir"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=benzir&theme=dracula&layout=compact" /></a>
 </p>
 
 <p align="center">
