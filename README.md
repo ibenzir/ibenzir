@@ -71,10 +71,10 @@ Beyond academics, I've worked as a web developer and an R&D Engineer, applying m
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
-  <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/qdrant/qdrant-web/master/src/assets/qdrant-logo-without-text.svg" alt="qdrant" width="40" height="40"/> </a>
+  <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/qdrant/EF404D" alt="qdrant" width="40" height="40"/> </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="langchain" width="40" height="40"/> </a>
   <a href="https://github.com/langchain-ai/langgraph" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/langgraph_logo.svg" alt="langgraph" width="40" height="40"/> </a>
-  <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/run-llama/LlamaIndexTS/main/packages/core/assets/llama_index_logo_dark.svg" alt="llamaindex" width="40" height="40"/> </a>
+  <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/run-llama/LlamaIndexTS/main/packages/core/assets/llama_index_logo_light.svg" alt="llamaindex" width="40" height="40"/> </a>
 </p>
 
 **Software & Web Development:**
@@ -108,5 +108,5 @@ Beyond academics, I've worked as a web developer and an R&D Engineer, applying m
 </p>
 
 <p align="center">
-  <img src="https://github.com/benzir/benzir/blob/output/github-contribution-grid-snake.svg" alt="snake-animation">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=benzir" alt="snake-animation">
 </p>
