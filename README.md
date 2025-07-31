@@ -31,10 +31,10 @@
 <td valign="top" width="45%">
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benzir&show_icons=true&locale=en&layout=compact&theme=dracula" alt="benzir" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibenzir&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ibenzir" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=benzir&show_icons=true&locale=en&theme=dracula&include_all_commits=true&count_private=true" alt="benzir" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibenzir&show_icons=true&locale=en&theme=dracula&include_all_commits=true&count_private=true" alt="ibenzir" />
 </p>
 
 </td>
