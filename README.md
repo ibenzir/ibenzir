@@ -51,7 +51,7 @@ During my undergraduate studies, I led student chapters, contributed to research
 - Development of **RAG applications** using vector databases and fine-tuning large language models.
 - Academic research on **UAV localization** using Reinforcement Learning-based SLAM.
 
-Beyond academics, I've worked as a web developer and an R&D Engineer, applying my skills to both social engagement platforms and applied intelligent systems. I draw inspiration from foundational works like Kepler's *Harmonies of the World* and Fibonacci's *Liber Abaci*. When I'm not coding, I enjoy playing video games—*Far Cry 3* is my all-time favorite.
+Beyond academics, I've worked as a web developer and an R&D Engineer, applying my skills to both social engagement platforms and applied intelligent systems. I draw inspiration from foundational works like Kepler's *Harmonies of the World* and Fibonacci's *Liber Abaci*. When I'm not coding, I enjoy playing video games—*Far Cry series* is my all-time favorite.
 
 <details>
 <summary>
