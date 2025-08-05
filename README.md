@@ -106,7 +106,12 @@ Beyond academics, I've worked as a web developer and an R&D Engineer, applying m
 ### 🕒 My Coding Activity
 
 <p align="center">
+   
+
   <a href="https://wakatime.com/@benzir"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=benzir&theme=dracula&layout=compact" /></a>
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibenzir&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ibenzir" />
 </p>
 
 <p align="center">
