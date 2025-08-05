@@ -31,10 +31,9 @@
 <td valign="top" width="45%">
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibenzir&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ibenzir" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibenzir&theme=github-dark" alt="GitHub Streak" /></a></p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibenzir&show_icons=true&locale=en&theme=dracula&include_all_commits=true&count_private=true" alt="ibenzir" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibenzir&show_icons=true&locale=en&theme=blue-green&include_all_commits=true&count_private=true" alt="ibenzir" />
 </p>
 
 </td>
