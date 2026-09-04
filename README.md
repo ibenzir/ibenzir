@@ -370,7 +370,7 @@ I also write about **technology, artificial intelligence, education and economic
 
 My writing has appeared in:
 
-**The Daily Star · Dhaka Tribune · Dhaka Stream · The Business Standard · TBS Graduates**
+**The Daily Star · Dhaka Tribune · Dhaka Stream · Progress Mag · TBS Graduates**
 
 <br>
 
