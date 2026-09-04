@@ -1,113 +1,448 @@
-<h1 align="center">Benzir Ahammed Shawon</h1>
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=A+Computer+Nerd" alt="Typing SVG" /></a>
-</p>
+<div align="center">
 
+# `Benzir Ahammed Shawon`
 
-<p align="center">
-  <a href="https://linkedin.com/in/benzir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benzir" height="30" width="40" /></a>
-  <a href="https://twitter.com/bdbenzir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bdbenzir" height="30" width="40" /></a>
-  <a href="https://kaggle.com/benzir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="benzir" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/10654148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:10654148" height="30" width="40" /></a>
-  <a href="https://dev.to/benzir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="benzir" height="30" width="40" /></a>
-  <a href="https://medium.com/@benzir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@benzir" height="30" width="40" /></a>
-</p>
+### **AI Engineer · Computational Scientist · Researcher · Systems Nerd**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems.;Exploring+AI+%2B+Mathematics.;Researching.+Engineering.+Breaking+things.;From+algorithms+to+LLMs+to+GPU+computing." alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/benzir)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://twitter.com/bdbenzir)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://kaggle.com/benzir)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge\&logo=stackoverflow\&logoColor=white)](https://stackoverflow.com/users/10654148)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge\&logo=devdotto\&logoColor=white)](https://dev.to/benzir)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@benzir)
+
+</div>
 
 ---
 
+<div align="center">
+
+> **"I like problems that sit somewhere between mathematics, machines and human curiosity."**
+
+</div>
+
+---
+
+## `whoami`
+
 <table>
 <tr>
-<td valign="top" width="55%">
+<td width="55%" valign="top">
 
-### Hi there! I'm Benzir 👋
+### 👋 Hey, I'm Shawon.
 
-- 🔭 I'm currently working on projects involving **Retrieval-Augmented Generation (RAG)**, **LLM Fine-Tuning**, and **Deep Learning**.
-- 🌱 I’m currently exploring advanced topics in **Reinforcement Learning** and **AI System Design**.
-- 👯 I’m looking to collaborate on innovative **NLP**, **Computer Vision**, and **Robotics** projects.
-- 💬 Ask me about **Algorithms**, **Data Structures**, **Compilers**, and **AI Ethics**.
-- 📫 How to reach me: `benzir.shawon@northsouth.edu`
+I'm a **Computer Science & Engineering graduate** currently pursuing an **MSc in Applied Mathematics & Computational Science at North South University**.
+
+My work sits at the intersection of:
+
+```text
+Artificial Intelligence
+        +
+Machine Learning
+        +
+Computational Mathematics
+        +
+Systems Engineering
+        +
+Research
+```
+
+I enjoy understanding systems from the bottom up — from **algorithms and compilers** to **LLMs, vector databases, GPU computing and numerical methods**.
+
+Currently exploring the deeper side of computational intelligence: **LLMs, RAG systems, deep learning, reinforcement learning, numerical computing, CUDA and HPC**.
 
 </td>
-<td valign="top" width="45%">
 
-<p align="center">
-   <a href="https://wakatime.com/@benzir"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=benzir&theme=dracula&layout=compact" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibenzir&show_icons=true&locale=en&theme=blue-green&include_all_commits=true&count_private=true" alt="ibenzir" />
-</p>
+<td width="45%" valign="top">
+
+### `CURRENT_STATUS`
+
+```yaml
+education:
+  degree: MSc
+  field: Applied Mathematics & Computational Science
+  university: North South University
+
+background:
+  undergraduate: Computer Science & Engineering
+
+focus:
+  - Artificial Intelligence
+  - Deep Learning
+  - LLM Systems
+  - RAG
+  - Computational Mathematics
+  - GPU Computing
+  - HPC
+
+languages:
+  - Python
+  - C++
+  - C
+  - Java
+  - MATLAB
+
+currently_exploring:
+  - Reinforcement Learning
+  - AI Systems
+  - CUDA
+  - Numerical Methods
+  - Parallel Computing
+```
 
 </td>
 </tr>
 </table>
 
-### 📖 About Me
+---
 
-I'm a Computer Science and Engineering graduate from North South University, specializing in **Artificial Intelligence** and **Deep Learning**. My technical journey is driven by a fascination with patterns, from the algorithmic beauty in competitive programming to the complex harmonies in data. I have received two honorable mentions in **ICPC regional competitions** and enjoy applying my skills to diverse challenges.
+## `research.exe`
 
-During my undergraduate studies, I led student chapters, contributed to research, and built a variety of impactful projects. These include:
-- A **compiler** that translates high-level assembly into ARM-M architecture.
-- Research on **genome sequencing** using data from GISAID during the COVID-19 pandemic.
-- Development of **RAG applications** using vector databases and fine-tuning large language models.
-- Academic research on **UAV localization** using Reinforcement Learning-based SLAM.
+### 🧠 Artificial Intelligence & LLM Systems
 
-Beyond academics, I've worked as a web developer and an R&D Engineer, applying my skills to both social engagement platforms and applied intelligent systems. I draw inspiration from foundational works like Kepler's *Harmonies of the World* and Fibonacci's *Liber Abaci*. When I'm not coding, I enjoy playing video games—*Far Cry series* is my all-time favorite.
+I've worked with **Retrieval-Augmented Generation**, vector databases, LLM fine-tuning and intelligent application architectures.
 
-<details>
-<summary>
-<b> 💻 My Toolbox & Tech Stack </b>
-</summary>
- 
-**Languages:**
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://developer.arm.com/documentation/100067/0612/introduction-to-arm-assembler/a-small-example-in-assembly-language" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="assembly" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-</p>
+Areas I've worked with include:
 
-**AI & Machine Learning:**
-<p align="left">
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
-  <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/qdrant/EF404D" alt="qdrant" width="40" height="40"/> </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="langchain" width="40" height="40"/> </a>
-  <a href="https://github.com/langchain-ai/langgraph" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/langgraph_logo.svg" alt="langgraph" width="40" height="40"/> </a>
-  <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/run-llama/LlamaIndexTS/main/packages/core/assets/llama_index_logo_light.svg" alt="llamaindex" width="40" height="40"/> </a>
-</p>
+* Retrieval-Augmented Generation (RAG)
+* Large Language Model fine-tuning
+* Vector databases
+* NLP pipelines
+* Deep Learning
+* AI system architecture
+* Agentic / tool-using AI systems
 
-**Software & Web Development:**
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-</p>
+### 🧬 Computational Biology
 
-**Tools & Platforms:**
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-</p>
-</details>
+Worked on **COVID-19 genome sequencing and analysis using GISAID data**, combining computational techniques with biological datasets.
 
+### 🚁 UAV Localization & SLAM
 
-### 🏆 My GitHub Trophies
+Academic research involving **UAV localization**, **Reinforcement Learning**, and **SLAM-based intelligent navigation**.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibenzir&theme=dracula&column=7" alt="ibenzir" />
-</p>
+### ⚙️ Compilers & Computer Architecture
+
+Built a compiler capable of translating **high-level assembly into ARM-M architecture**, giving me hands-on exposure to compilers, assembly and low-level systems.
 
 ---
 
-### 🕒 My Coding Activity
+## `lab/`
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 Computational Science
+
+```text
+Numerical ODE/PDE Methods
+        ↓
+MATLAB
+        ↓
+Scientific Computing
+        ↓
+Parallel Computing
+        ↓
+GPU Acceleration
+```
+
+Currently working with numerical computation concepts including:
+
+* ODE solvers
+* PDE numerical methods
+* ADI methods
+* Explicit / implicit schemes
+* Stiff & non-stiff systems
+* RK45 / DOP853 / RADAU
+* MATLAB scientific computing
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 GPU / HPC
+
+My recent systems work has also moved toward GPU computing.
+
+```text
+NVIDIA RTX 4070 Ti
+        │
+        ├── CUDA
+        ├── NVCC
+        ├── NVIDIA HPC SDK
+        ├── OpenMP
+        └── Parallel Computing
+```
+
+Currently experimenting with **CUDA, NVIDIA HPC SDK, C/C++ acceleration and parallel computing**.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `toolbox`
+
+<details open>
+<summary><b>🧠 AI / Machine Learning</b></summary>
+
+<br>
+
+
+`PyTorch` · `TensorFlow` · `Scikit-learn` · `Hugging Face` · `Qdrant` · `LangChain` · `LangGraph` · `LlamaIndex` · `Docker`
+
+</details>
+
+<details>
+<summary><b>💻 Programming & Scientific Computing</b></summary>
+
+<br>
+
+
+`Python` · `C++` · `C` · `Java` · `MATLAB` · `Assembly`
+
+</details>
+
+<details>
+<summary><b>🌐 Software & Web</b></summary>
+
+<br>
+
+
+`Django` · `React` · `React Native` · `Linux` · `Git` · `Docker`
+
+</details>
+
+<details>
+<summary><b>⚡ Parallel & GPU Computing</b></summary>
+
+<br>
+
+`CUDA` · `NVCC` · `NVIDIA HPC SDK` · `OpenMP` · `C/C++` · `GPU Computing` · `HPC`
+
+</details>
+
+---
+
+## `experience.log`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    EXPERIENCE STACK                         │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  R&D ENGINEERING                                            │
+│  ├── Intelligent systems                                    │
+│  ├── Applied AI                                             │
+│  └── Research & development                                 │
+│                                                             │
+│  SOFTWARE ENGINEERING                                       │
+│  ├── Web development                                        │
+│  ├── Application development                                │
+│  └── Technical architecture                                 │
+│                                                             │
+│  RESEARCH                                                   │
+│  ├── AI / Deep Learning                                     │
+│  ├── Computational Biology                                  │
+│  ├── UAV / SLAM                                             │
+│  └── Numerical Computing                                    │
+│                                                             │
+│  WRITING                                                    │
+│  ├── Technology                                             │
+│  ├── AI                                                     │
+│  ├── Education                                              │
+│  └── Economics                                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+I've also written as a **technology, AI, education and economics columnist**, with work appearing in outlets including **The Daily Star, Dhaka Tribune, Dhaka Stream, The Business Standard and TBS Graduates**.
+
+---
+
+## `achievements`
+
+<div align="center">
+
+### 🏆 Competitive Programming
+
+**ICPC Regional Honorable Mentions × 2**
+
+Algorithms and competitive programming remain a major part of how I approach problems: decompose → model → optimize → implement.
+
+<br>
+
+### 🎓 Academic
+
+**Computer Science & Engineering — North South University**
+
+**MSc Applied Mathematics & Computational Science — North South University**
+
+</div>
+
+---
+
+## `currently_building`
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖
+
+**LLM Systems**
+
+RAG
+Fine-tuning
+Vector Search
+AI Agents
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧮
+
+**Computational Science**
+
+Numerical Methods
+ODE/PDE
+MATLAB
+Scientific Computing
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚡
+
+**High Performance**
+
+CUDA
+OpenMP
+GPU Computing
+HPC
+
+</td>
+</tr>
+</table>
+
+---
+
+
+## `outside_the_terminal`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Reading
+
+I'm fascinated by the intersection of **mathematics, science, algorithms and the history of ideas**.
+
+Currently inspired by works such as:
+
+* Johannes Kepler — *Harmonies of the World*
+* Leonardo Fibonacci — *Liber Abaci*
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 Gaming
+
+When I'm not coding or studying, I play video games.
+
+**Far Cry** is my all-time favorite series.
+
+</td>
+</tr>
+</table>
+
+### ✍️ Writing & Publications
+
+I also write about **technology, artificial intelligence, education and economics**.
+
+My writing has appeared in:
+
+**The Daily Star · Dhaka Tribune · Dhaka Stream · The Business Standard · TBS Graduates**
+
+<br>
+
+<div align="center">
+
+<a href="https://www.thedailystar.net/author/benzir-ahammed-shawon">
+<img src="https://img.shields.io/badge/The%20Daily%20Star-111111?style=flat-square" />
+</a>
+&nbsp;
+<a href="https://www.dhakatribune.com/author/BenzirAhammedShawon">
+<img src="https://img.shields.io/badge/Dhaka%20Tribune-111111?style=flat-square" />
+</a>
+&nbsp;
+<a href="https://www.dhakastream.net/author/benzir-ahammed-shawon">
+<img src="https://img.shields.io/badge/Dhaka%20Stream-111111?style=flat-square" />
+</a>
+&nbsp;
+<a href="https://progressmagazine.net/author/benzir/">
+<img src="https://img.shields.io/badge/Progress%20Magazine-111111?style=flat-square" />
+</a>
+&nbsp;
+<a href="https://www.tbsnews.net/features">
+<img src="https://img.shields.io/badge/TBS%20Graduates-111111?style=flat-square" />
+</a>
+
+</div>
+
+<br>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibenzir&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ibenzir" />
+
+<a href="https://medium.com/@benzir">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://dev.to/benzir">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+
 </p>
 
+
+---
+
+## `philosophy`
+
+```python
+def solve(problem):
+    understand(problem)
+    model(problem)
+    question_assumptions(problem)
+    experiment()
+    optimize()
+    repeat()
+```
+
+I don't particularly enjoy treating technology as a collection of frameworks.
+
+I want to understand **why the system works**.
+
+From a compiler translating instructions at the machine level, to a neural network learning representations, to a numerical solver approximating a differential equation — the interesting part is always underneath the abstraction.
+
+---
+
+<div align="center">
+
+### `> end_of_file`
+
+**Still learning. Still building. Still breaking things.**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ibenzir&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views"/>
+
+</div>
