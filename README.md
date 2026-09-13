@@ -1,7 +1,7 @@
 <img align="right" src="./assets/octocat_with_quote.png" alt="Benzir Octocat" width="220" style="margin-left: 20px; margin-bottom: 20px;" />
 
 <p align="left">
-  <font size="6"><b>Hey, I'm Benzir Ahammed Shawon</b></font> 👋
+  <font size="7"><b>Hey, I'm Benzir Ahammed Shawon</b></font> 👋
 </p>
 
 <a href="#">
@@ -40,7 +40,7 @@
 
 - **parallel-simulated-annealing-hpc** *(Ongoing Research · Private)*  
   High-performance parallel optimization framework investigating distributed and GPU-accelerated Simulated Annealing formulations for large-scale combinatorial spaces. Explores concurrent Markov chain exploration, asynchronous temperature cooling schedules, and shared-memory communication overhead minimization.  
-  [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)](#) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#) [![HPC](https://img.shields.io/badge/HPC-Parallel%20Optimization-blueviolet?style=flat-square)](#) [![Status](https://img.shields.io/badge/Research-Confidential-darkred?style=flat-square)](#)
+  [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)](#) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#) [![OpenMP](https://img.shields.io/badge/OpenMP-Parallel-438440?style=flat-square)](#) [![MPI](https://img.shields.io/badge/MPI-Distributed-005580?style=flat-square)](#) [![HPC](https://img.shields.io/badge/HPC-Parallel%20Optimization-blueviolet?style=flat-square)](#) [![Status](https://img.shields.io/badge/Research-Confidential-darkred?style=flat-square)](#)
 
 - **[steam-trade-card-dropper](https://github.com/ibenzir/steam-trade-card-dropper)**  
   Automated Steam trading card idling utility. Implements Steam client authentication, automated card drop detection, badge tracking, and lightweight background session management.  
@@ -93,6 +93,7 @@
   <b>Systems & GPU Computing</b><br>
   <a href="https://developer.nvidia.com/cuda-zone"><img src="./assets/icons/cuda.svg" alt="CUDA" width="34" height="34" /></a>
   <a href="https://www.openmp.org/"><img src="./assets/icons/openmp.svg" alt="OpenMP" width="34" height="34" /></a>
+  <a href="https://www.mpi-forum.org/"><img src="./assets/icons/mpi.svg" alt="MPI" width="34" height="34" /></a>
   <a href="https://www.kernel.org/"><img src="./assets/icons/linux.svg" alt="Linux" width="34" height="34" /></a>
 </p>
 
