@@ -1,7 +1,7 @@
 <img align="right" src="./assets/octocat_with_quote.png" alt="Benzir Octocat" width="220" style="margin-left: 20px; margin-bottom: 20px;" />
 
 <p align="left">
-  <font size="7"><b>Hey, I'm Benzir Ahammed Shawon</b></font> 👋
+  <img src="./assets/greeting.svg" alt="Hey, I'm Benzir Ahammed Shawon 👋" height="34" />
 </p>
 
 <a href="#">
