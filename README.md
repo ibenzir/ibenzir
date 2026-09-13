@@ -17,6 +17,9 @@
         <a href="https://twitter.com/bdbenzir"><img src="./assets/icons/x.svg" alt="X" width="34" height="34" /></a>
         <a href="https://kaggle.com/benzir"><img src="./assets/icons/kaggle.svg" alt="Kaggle" width="34" height="34" /></a>
         <a href="https://stackoverflow.com/users/10654148"><img src="./assets/icons/stackoverflow.svg" alt="Stack Overflow" width="34" height="34" /></a>
+        <a href="https://steamcommunity.com/id/hexabenzir/"><img src="./assets/icons/steam.svg" alt="Steam" width="34" height="34" /></a>
+        <a href="https://benzir.notion.site/articles"><img src="./assets/icons/notion.svg" alt="Notion" width="34" height="34" /></a>
+        <a href="https://medium.com/@benzir"><img src="./assets/icons/medium.svg" alt="Medium" width="34" height="34" /></a>
       </p>
     </td>
     <td valign="top" align="center" width="30%">
