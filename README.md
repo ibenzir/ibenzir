@@ -26,7 +26,7 @@
 
 <br clear="both" />
 
----
+<img src="./assets/divider.svg" width="100%" height="1" />
 
 ### Core Focus
 
@@ -34,7 +34,7 @@
 - **Computational Mathematics**: Numerical ODE & PDE Boundary Solvers, ADI Schemes, Stiff / Non-Stiff Formulations, Adaptive Solvers (RK45, DOP853, RADAU), Scientific Simulation in MATLAB.
 - **High-Performance Computing**: Dedicated NVIDIA RTX 4070 Ti, CUDA C/C++ & NVCC Kernel Optimization, NVIDIA HPC SDK Accelerated Math, OpenMP Parallelization, Memory Coalescing & Profiling.
 
----
+<img src="./assets/divider.svg" width="100%" height="1" />
 
 ### Recent Projects
 
@@ -62,7 +62,7 @@
   Full-stack web application capstone demonstrating scalable backend architecture, authentication workflows, and RESTful APIs.  
   [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://github.com/ibenzir/Django-Capstone) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/ibenzir/Django-Capstone)
 
----
+<img src="./assets/divider.svg" width="100%" height="1" />
 
 ### Tech Stack
 
@@ -107,7 +107,7 @@
   <a href="https://www.postgresql.org/"><img src="./assets/icons/postgresql.svg" alt="PostgreSQL" width="34" height="34" /></a>
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" height="1" />
 
 ### Research & Systems
 
@@ -116,7 +116,7 @@
 - **Compilers & Architecture**: Engineered a custom compiler capable of translating **high-level assembly instructions into ARM-M machine architecture**, exploring low-level code generation.
 - **Numerical Solvers & Scientific Computing**: Formulated numerical solutions for differential equations: **Alternating Direction Implicit (ADI) methods, stiff ODE solvers, and adaptive Runge-Kutta variants (RK45, DOP853, RADAU)** in MATLAB.
 
----
+<img src="./assets/divider.svg" width="100%" height="1" />
 
 ### Writing & Publications
 
@@ -130,7 +130,7 @@ I write about **technology, artificial intelligence, higher education, and econo
   <a href="https://progressmagazine.net/author/benzir/"><img src="https://img.shields.io/badge/Progress%20Mag-111111?style=for-the-badge" alt="Progress Mag" /></a>
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" height="1" />
 
 ### Education & Honors
 
@@ -138,7 +138,7 @@ I write about **technology, artificial intelligence, higher education, and econo
 - **BSc in Computer Science & Engineering** · North South University
 - **Competitive Programming**: **ICPC Regional Contests — Honorable Mentions × 2** (International Collegiate Programming Contest)
 
----
+<img src="./assets/divider.svg" width="100%" height="1" />
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibenzir&theme=apprentice&animation=load" alt="GitHub Profile Summary" />
