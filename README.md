@@ -20,6 +20,7 @@
         <a href="https://steamcommunity.com/id/hexabenzir/"><img src="./assets/icons/steam.svg" alt="Steam" width="34" height="34" /></a>
         <a href="https://benzir.notion.site/articles"><img src="./assets/icons/notion.svg" alt="Notion" width="34" height="34" /></a>
         <a href="https://medium.com/@benzir"><img src="./assets/icons/medium.svg" alt="Medium" width="34" height="34" /></a>
+        <a href="https://reddit.com/user/bdbenzir"><img src="./assets/icons/reddit.svg" alt="Reddit" width="34" height="34" /></a>
       </p>
     </td>
     <td valign="top" align="center" width="30%">
