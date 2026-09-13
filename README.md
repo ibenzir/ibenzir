@@ -1,35 +1,30 @@
-<table width="100%">
-  <tr>
-    <td valign="top" width="70%">
-      <p align="left">
-        <font size="6"><b>Hey, I'm Benzir Ahammed Shawon</b></font> 👋
-      </p>
-      <a href="#">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=550&lines=AI+Engineer+%C2%B7+Computational+Scientist;MSc+Applied+Math+%26+Computational+Science;Exploring+AI+%2B+Mathematics+%2B+HPC;Researching.+Engineering.+Breaking+things.;From+algorithms+to+LLMs+to+GPU+computing." alt="Typing SVG" />
-      </a>
-      <br><br>
-      • <b>Computer Science & Engineering graduate</b>, pursuing an <b>MSc in Applied Mathematics & Computational Science</b> at North South University.<br>
-      • Working at the intersection of <b>Artificial Intelligence, Mathematical Modeling, Systems Engineering & GPU Computing</b>.<br>
-      • Understanding systems from the ground up — from compilers and numerical ODE/PDE solvers to LLM systems and CUDA kernels.
-      <br><br>
-      <p align="left">
-        <a href="https://linkedin.com/in/benzir"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="34" height="34" /></a>
-        <a href="https://twitter.com/bdbenzir"><img src="./assets/icons/x.svg" alt="X" width="34" height="34" /></a>
-        <a href="https://kaggle.com/benzir"><img src="./assets/icons/kaggle.svg" alt="Kaggle" width="34" height="34" /></a>
-        <a href="https://stackoverflow.com/users/10654148"><img src="./assets/icons/stackoverflow.svg" alt="Stack Overflow" width="34" height="34" /></a>
-        <a href="https://steamcommunity.com/id/hexabenzir/"><img src="./assets/icons/steam.svg" alt="Steam" width="34" height="34" /></a>
-        <a href="https://benzir.notion.site/articles"><img src="./assets/icons/notion.svg" alt="Notion" width="34" height="34" /></a>
-        <a href="https://medium.com/@benzir"><img src="./assets/icons/medium.svg" alt="Medium" width="34" height="34" /></a>
-        <a href="https://reddit.com/user/bdbenzir"><img src="./assets/icons/reddit.svg" alt="Reddit" width="34" height="34" /></a>
-      </p>
-    </td>
-    <td valign="top" align="center" width="30%">
-      <img src="./assets/octocat.png" alt="Benzir Octocat" width="220" />
-      <br><br>
-      <sub><i>"I like problems that sit somewhere between mathematics, machines and human curiosity."</i></sub>
-    </td>
-  </tr>
-</table>
+<img align="right" src="./assets/octocat_with_quote.png" alt="Benzir Octocat" width="220" style="margin-left: 20px; margin-bottom: 20px;" />
+
+<p align="left">
+  <font size="6"><b>Hey, I'm Benzir Ahammed Shawon</b></font> 👋
+</p>
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=550&lines=AI+Engineer+%C2%B7+Computational+Scientist;MSc+Applied+Math+%26+Computational+Science;Exploring+AI+%2B+Mathematics+%2B+HPC;Researching.+Engineering.+Breaking+things.;From+algorithms+to+LLMs+to+GPU+computing." alt="Typing SVG" />
+</a>
+
+• <b>Computer Science & Engineering graduate</b>, pursuing an <b>MSc in Applied Mathematics & Computational Science</b> at North South University.<br>
+• Working at the intersection of <b>Artificial Intelligence, Mathematical Modeling, Systems Engineering & GPU Computing</b>.<br>
+• Understanding systems from the ground up — from compilers and numerical ODE/PDE solvers to LLM systems and CUDA kernels.
+<br><br>
+
+<p align="left">
+  <a href="https://linkedin.com/in/benzir"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="34" height="34" /></a>
+  <a href="https://twitter.com/bdbenzir"><img src="./assets/icons/x.svg" alt="X" width="34" height="34" /></a>
+  <a href="https://kaggle.com/benzir"><img src="./assets/icons/kaggle.svg" alt="Kaggle" width="34" height="34" /></a>
+  <a href="https://stackoverflow.com/users/10654148"><img src="./assets/icons/stackoverflow.svg" alt="Stack Overflow" width="34" height="34" /></a>
+  <a href="https://steamcommunity.com/id/hexabenzir/"><img src="./assets/icons/steam.svg" alt="Steam" width="34" height="34" /></a>
+  <a href="https://benzir.notion.site/articles"><img src="./assets/icons/notion.svg" alt="Notion" width="34" height="34" /></a>
+  <a href="https://medium.com/@benzir"><img src="./assets/icons/medium.svg" alt="Medium" width="34" height="34" /></a>
+  <a href="https://reddit.com/user/bdbenzir"><img src="./assets/icons/reddit.svg" alt="Reddit" width="34" height="34" /></a>
+</p>
+
+<br clear="both" />
 
 ---
 
