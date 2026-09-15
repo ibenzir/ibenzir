@@ -5,12 +5,12 @@
 </p>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=550&lines=AI+Engineer+%C2%B7+Computational+Scientist;MSc+Applied+Math+%26+Computational+Science;Exploring+AI+%2B+Mathematics+%2B+HPC;Researching.+Engineering.+Breaking+things.;From+algorithms+to+LLMs+to+GPU+computing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=550&lines=AI+Engineer+%C2%B7+Systems+Architect;MSc+Applied+Math+%26+Computational+Science;Exploring+AI+%2B+Systems+Design+%2B+HPC;Researching.+Architecting.+Engineering.;From+bare-metal+to+distributed+systems." alt="Typing SVG" />
 </a>
 
 • <b>Computer Science & Engineering graduate</b>, pursuing an <b>MSc in Applied Mathematics & Computational Science</b> at North South University.<br>
-• Working at the intersection of <b>Artificial Intelligence, Mathematical Modeling, Systems Engineering & GPU Computing</b>.<br>
-• Understanding systems from the ground up — from compilers and numerical ODE/PDE solvers to LLM systems and CUDA kernels.
+• Working at the intersection of <b>Artificial Intelligence, Mathematical Modeling, Systems Architecture & GPU Computing</b>.<br>
+• Understanding systems from the ground up — from compilers and numerical ODE/PDE solvers to decoupled distributed web architectures, LLM systems, and CUDA kernels.
 <br><br>
 
 <p align="left">
@@ -31,6 +31,7 @@
 ### Core Focus
 
 - **AI & LLM Systems**: Retrieval-Augmented Generation (RAG), Fine-Tuning & Quantization, Vector Databases (Qdrant), Agentic AI & Autonomous Tool-Using Systems, NLP Pipelines (LangChain, LangGraph, LlamaIndex).
+- **System Design & Architecture**: Decoupled Headless & Microservice Architectures, RESTful API Design & Contract Specification (DRF, FastAPI), Secure Multi-tenant RBAC, Cryptographic Auth Flows & Attack-Surface Hardening, Relational Data Modeling & Query Profiling (PostgreSQL, MariaDB), Resilient Production Deployment & Asset Pipelines (WSGI / Nginx / Apache).
 - **Computational Mathematics**: Numerical ODE & PDE Boundary Solvers, ADI Schemes, Stiff / Non-Stiff Formulations, Adaptive Solvers (RK45, DOP853, RADAU), Scientific Simulation in MATLAB.
 - **High-Performance Computing**: Dedicated NVIDIA RTX 4070 Ti, CUDA C/C++ & NVCC Kernel Optimization, NVIDIA HPC SDK Accelerated Math, OpenMP Parallelization, Memory Coalescing & Profiling.
 
@@ -58,9 +59,9 @@
   High-performance computing benchmarks and parallel algorithms utilizing the NVIDIA HPC SDK, CUDA C/C++, and OpenMP on the NVIDIA RTX 4070 Ti.  
   [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/ibenzir/HPC-SDK) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/ibenzir/HPC-SDK) [![OpenMP](https://img.shields.io/badge/OpenMP-Parallel-438440?style=flat-square)](https://github.com/ibenzir/HPC-SDK)
 
-- **[Django-Capstone](https://github.com/ibenzir/Django-Capstone)**  
-  Full-stack web application capstone demonstrating scalable backend architecture, authentication workflows, and RESTful APIs.  
-  [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://github.com/ibenzir/Django-Capstone) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/ibenzir/Django-Capstone)
+- **[vumeej-jele](https://github.com/ibenzir/vumeej-jele)**  
+  Full-stack advocacy portal and digital archive for the Bhumij Baor Fisherfolk Movement. Architected as a high-performance decoupled system featuring a React 18 + Vite frontend with dynamic multi-template editorial layouts and Bengali typography, backed by a headless Django 5 REST Framework API engineered for resilient production deployment via cPanel Passenger WSGI and MariaDB.  
+  [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://github.com/ibenzir/vumeej-jele) [![DRF](https://img.shields.io/badge/DRF-REST%20API-a30000?style=flat-square&logo=django&logoColor=white)](https://github.com/ibenzir/vumeej-jele) [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/ibenzir/vumeej-jele) [![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://github.com/ibenzir/vumeej-jele) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://github.com/ibenzir/vumeej-jele) [![Architecture](https://img.shields.io/badge/Architecture-Decoupled%20System-orange?style=flat-square)](https://github.com/ibenzir/vumeej-jele)
 
 <img src="./assets/divider.svg" width="100%" height="1" />
 
@@ -72,6 +73,7 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./assets/icons/csharp.svg" alt="C#" width="34" height="34" /></a>
   <a href="https://isocpp.org/"><img src="./assets/icons/cpp.svg" alt="C++" width="34" height="34" /></a>
   <a href="#"><img src="./assets/icons/c.svg" alt="C" width="34" height="34" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/icons/javascript.svg" alt="JavaScript" width="34" height="34" /></a>
   <a href="https://www.java.com/"><img src="./assets/icons/java.svg" alt="Java" width="34" height="34" /></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="./assets/icons/matlab.svg" alt="MATLAB" width="34" height="34" /></a>
   <a href="#"><img src="./assets/icons/assembly.svg" alt="Assembly" width="34" height="34" /></a>
@@ -105,13 +107,17 @@
   <a href="https://www.djangoproject.com/"><img src="./assets/icons/django.svg" alt="Django" width="34" height="34" /></a>
   <a href="https://fastapi.tiangolo.com/"><img src="./assets/icons/fastapi.svg" alt="FastAPI" width="34" height="34" /></a>
   <a href="https://react.dev/"><img src="./assets/icons/react.svg" alt="React" width="34" height="34" /></a>
+  <a href="https://tailwindcss.com/"><img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" width="34" height="34" /></a>
+  <a href="https://vite.dev/"><img src="./assets/icons/vite.svg" alt="Vite" width="34" height="34" /></a>
   <a href="https://www.postgresql.org/"><img src="./assets/icons/postgresql.svg" alt="PostgreSQL" width="34" height="34" /></a>
+  <a href="https://www.mysql.com/"><img src="./assets/icons/mysql.svg" alt="MySQL" width="34" height="34" /></a>
 </p>
 
 <img src="./assets/divider.svg" width="100%" height="1" />
 
 ### Research & Systems
 
+- **System Architecture & Secure Engineering**: Architected decoupled, production-grade web systems and headless CMS ecosystems; designed end-to-end security hardening protocols (OWASP compliance, strict role-based access control, cryptographic verification tokens), relational schema optimizations, and custom deployment pipelines across Linux and cPanel/WSGI infrastructures.
 - **Computational Biology & Genomics**: Tracked viral mutations on **COVID-19 genome sequencing data via GISAID**, blending computational pipelines with biological sequence analysis to extract phylogenetic insights.
 - **Autonomous UAV Localization & SLAM**: Investigated robotic navigation by combining **Reinforcement Learning algorithms with SLAM-based spatial mapping** for accurate autonomous localization in complex environments.
 - **Compilers & Architecture**: Engineered a custom compiler capable of translating **high-level assembly instructions into ARM-M machine architecture**, exploring low-level code generation.
@@ -124,11 +130,11 @@
 I write about **technology, artificial intelligence, higher education, and economics** across prominent national and regional media outlets:
 
 <p align="left">
-  <a href="https://www.thedailystar.net/author/benzir-ahammed-shawon"><img src="https://img.shields.io/badge/The%20Daily%20Star-111111?style=for-the-badge" alt="The Daily Star" /></a>
-  <a href="https://www.dhakatribune.com/author/BenzirAhammedShawon"><img src="https://img.shields.io/badge/Dhaka%20Tribune-111111?style=for-the-badge" alt="Dhaka Tribune" /></a>
-  <a href="https://www.dhakastream.net/author/benzir-ahammed-shawon"><img src="https://img.shields.io/badge/Dhaka%20Stream-111111?style=for-the-badge" alt="Dhaka Stream" /></a>
-  <a href="https://www.tbsnews.net/features"><img src="https://img.shields.io/badge/TBS%20Graduates-111111?style=for-the-badge" alt="TBS Graduates" /></a>
-  <a href="https://progressmagazine.net/author/benzir/"><img src="https://img.shields.io/badge/Progress%20Mag-111111?style=for-the-badge" alt="Progress Mag" /></a>
+  <a href="https://www.thedailystar.net/author/benzir-ahammed-shawon"><img src="./assets/pill/dailystar.svg" alt="The Daily Star" /></a>
+  <a href="https://www.dhakatribune.com/author/BenzirAhammedShawon"><img src="./assets/pill/dhakatribune.svg" alt="Dhaka Tribune" /></a>
+  <a href="https://www.dhakastream.net/author/benzir-ahammed-shawon"><img src="./assets/pill/dhakastream.svg" alt="Dhaka Stream" /></a>
+  <a href="https://www.tbsnews.net/features"><img src="./assets/pill/tbs.svg" alt="TBS Graduates" /></a>
+  <a href="https://progressmagazine.net/author/benzir/"><img src="./assets/pill/progress.svg" alt="Progress Mag" /></a>
 </p>
 
 <img src="./assets/divider.svg" width="100%" height="1" />
